@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scalable=no">
+    <title>Educación</title>
+  </head>
+  <body>
+    <header>
+      <svg width="150" height="150" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewbox="0 0 800 200">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000000" fill="#7f0000" stroke-width="0" x="163.878173" y="110.912977" id="svg_2" font-size="24" font-family="Cursive" text-anchor="middle" xml:space="preserve" font-weight="bold" font-style="italic" transform="matrix(3.85164 -1.7588 2.44253 3.40118 -717.517 77.1253)">CAMM</text>
+  <path stroke="#000000" fill="#999999" d="m602.386658,198.88504c0,29.51918 -88.195496,53.445709 -197,53.445709m197,-53.445709l0,0c0,29.51918 -88.195496,53.445709 -197,53.445709c-108.79248,0 -197,-23.926529 -197,-53.445709m0,0l0,0c0,-29.511841 88.20752,-53.43837 197,-53.43837c108.804504,0 197,23.926529 197,53.43837l0,213.782837c0,29.511841 -88.195496,53.445709 -197,53.445709c-108.79248,0 -197,-23.933868 -197,-53.445709l0,-213.782837z" id="svg_3"/>
+  <path stroke="#000000" fill="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m416.359344,291.898315c-24.182495,-3.104065 -37.229919,-32.127625 -13.062073,-42.758606c25.16806,-10.482544 40.157104,26.83728 12.650238,30.482147c-15.077332,4.559326 19.548981,12.193268 26.0065,4.529694c20.16684,-7.883453 17.048431,-28.40274 12.194244,-42.853699c-1.676941,-11.0737 -3.780396,-22.925385 -21.078827,-16.634033c-41.716309,2.711945 -74.754028,-31.47728 -71.429657,-63.459442c1.132599,-30.167343 31.713806,-50.829285 54.366577,-71.779358c-7.443054,-27.404701 -9.678894,-59.065948 11.885315,-82.950752c19.857941,-19.411415 29.93399,16.114296 33.28775,28.168083c7.457764,28.177002 -7.413635,57.788696 -32.16983,77.651703c2.368256,9.422043 4.692352,18.849915 7.090027,28.266113c26.168274,-4.081299 51.145203,13.773727 52.571991,34.688156c4.04538,18.885773 -10.958649,36.722977 -31.434357,44.838043c-0.353058,16.21817 10.752716,33.042572 6.766418,49.789459c-3.839172,17.314636 -27.874634,25.806732 -47.644318,22.022491l0,0zm27.315643,-73.885376c7.413666,-11.239883 -6.030853,-31.084976 -6.766388,-45.512207c0.279541,-25.156326 -32.758179,4.87439 -22.93219,17.225327c2.912506,7.310089 28.198212,20.715393 4.971832,12.445877c-24.226685,-11.715164 -23.123474,-41.867584 -0.970795,-54.59584c18.578156,-3.326828 7.237061,-23.356079 3.721497,-29.932388c-22.814545,16.797379 -48.68869,37.955566 -44.746521,65.143539c2.956604,25.4888 37.362305,40.949814 66.722565,35.225693zm15.356873,-4.865479c21.770081,-11.287415 21.049347,-40.908127 -2.765411,-50.09848c-25.403442,-10.844849 -8.002014,17.569794 -7.546051,28.38504c3.530273,4.140701 1.529816,28.263229 10.311462,21.71344zm-26.830292,-135.782173c13.385681,-13.081543 28.698395,-31.970161 19.28421,-49.269646c-20.240356,-10.79435 -31.493134,18.395554 -31.993286,31.177078c-0.191223,8.287354 -1.69162,36.856537 12.709076,18.092567l0,0l0,0z" id="svg_6"/>
+ </g>
+</svg>
+      <h1>HOJA DE VIDA</h1>
+        <h2>Datos Personales</h2>
+          <h3>Nombres:</h3><p>Carlos Andres</p>
+          <h3>Apellidos:</h3><p>Murcia Muñoz</p>
+          <h3>Fecha de Nacimiento:</h3>
+            <p>11 de Octubre de 1982</p>
+          <h3>Lugar de Nacimiento:</h3>
+            <p>Bogota, Colombia</p>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="index">Inicio</a></li>
+        <li><a href="educacion">Educación</a></li>
+        <li><a href="experiencia">Experiencia</a></li>
+      </ul>
+    </nav>
+    <section>
+      <h2>Educación</h2>
+      <table border="1">
+        <thead>
+          <tr>
+            <th>Año</th>
+            <th>Institución</th>
+            <th>Lugar</th>
+            <th>Culmino</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>2008</td>
+            <td>Universidad Sergio Arboleda</td>
+            <td>Bogota</td>
+            <td>SI</td>
+          </tr>
+          <tr>
+            <td>2005</td>
+            <td>Taller Nacional de Jazz</td>
+            <td>Bogota</td>
+            <td>SI</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+    <section>
+      <form autocomplete="on" name="formulario de ingreso de estudios">
+        <p>
+          <label for="Año">Año</label>
+          <select name="año">
+            <option value="1">2000</option>
+            <option value="1">2001</option>
+            <option value="1">2002</option>
+            <option value="1">2003</option>
+            <option value="1">2004</option>
+            <option value="1">2005</option>
+            <option value="1">2006</option>
+            <option value="1">2007</option>
+            <option value="1">2008</option>
+            <option value="1">2009</option>
+            <option value="1">2010</option>
+            <option value="1">2011</option>
+            <option value="1">2012</option>
+            <option value="1">2013</option>
+          </select>
+        </p>
+        <p>
+          <label for="Institución"><strong>Intitución:</strong></label>
+          <input type="text" name="institución" required>
+          <br>
+          <label for="Lugar"><strong>Lugar:</strong></label>
+          <br>
+          <textarea name="lugar" rows="8" cols="80"></textarea>
+          <br>
+          <label for="¿Culmino?">¿Culmino?</label>
+          <input type="radio" name="¿Culmino?" value="SI"> SI
+          <input type="radio" name="¿Culmino?" value="NO"> NO
+        </p>
+        <p>
+          <input type="submit" name="enviar" value="enviar">
+        </p>
+      </form>
+    </section>
+    <footer>
+      <a href="mailto:charliemurcia@hotmail.com" subjetc=<"Hoja de vida Carlos Murcia">enviame un correo</a>
+      <p><strong>Telefono:</strong> Celular (57) 3167757768 <br> <strong>Direccion:</strong> Carrera 57 # 38-290 Bello. Antioquia</p>
+      <h5>Redes</h5>
+      <a href="https://www.youtube.com/user/Charliemurcia" target="_blank"> <img src="iconos redes/youtube.png" alt="youtube"></a>
+      <a href="https://www.facebook.com/CharlieMurcia/" target="_blank"> <img src="iconos redes/facebook.png" alt="facebook"></a>
+      <a href="https://twitter.com/charliesoka" target="_blank"> <img src="iconos redes/gorjeo.png" alt="twitter"></a>
+      <a href="https://www.linkedin.com/in/charlie-murcia-a6684536/" target="_blank"><img src="iconos redes/linkedin.png" alt="linkedin"></a>
+      <br>Derechos Reservados
+    </footer>
+  </body>
+<html>
